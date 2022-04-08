@@ -4,3 +4,5 @@
   后端：servlet、jdbc
   前端：jsp+css+js
   数据库：mysql
+  
+*不含任何框架、适合小白的课程设计*
